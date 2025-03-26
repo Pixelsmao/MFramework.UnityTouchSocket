@@ -15,10 +15,13 @@ TouchSocket是一款简单易用的基础网络通讯组件库，是由原作者
 
 ## 安装提示
 
-+ 本项目需要从Github中拉取依赖包，请保障Unity可以访问Github，具体可参考[Unity Package Manager无法下载github包的问题](https://blog.csdn.net/qq_39940718/article/details/133345656)
-和[解决Unity网络问题](https://docs.unity.cn/cn/2020.3/Manual/upm-config-network.html)
-。  
-+ 如果您无法解决Unity的UPM网络问题，请手动安装以下依赖包。
+[//]: # (+ 本项目需要从Github中拉取依赖包，请保障Unity可以访问Github，具体可参考[Unity Package Manager无法下载github包的问题]&#40;https://blog.csdn.net/qq_39940718/article/details/133345656&#41;)
+
+[//]: # (和[解决Unity网络问题]&#40;https://docs.unity.cn/cn/2020.3/Manual/upm-config-network.html&#41;)
+
+[//]: # (。  )
+
++ 引用此包之前请手动安装以下依赖包。
 
 #### 依赖包
 

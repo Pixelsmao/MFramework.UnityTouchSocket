@@ -14,7 +14,6 @@
     "url": "https://github.com/T-Hazy/MFramework.UnityTouchSocket.git"
   },
   "dependencies": {
-    "com.unity.inputsystem":"1.11.2",
-    "com.psygames.unitywebsocket":"https://github.com/psygames/UnityWebSocket.git#upm"
+    "com.unity.inputsystem":"1.11.2"
   }
 }
