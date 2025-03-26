@@ -15,6 +15,6 @@
   },
   "dependencies": {
     "com.unity.inputsystem":"1.11.2",
-    "com.psygames.unitywebsocket": "https://github.com/psygames/UnityWebSocket.git"
+    "com.psygames.unitywebsocket":"https://github.com/psygames/UnityWebSocket.git#upm"
   }
 }
