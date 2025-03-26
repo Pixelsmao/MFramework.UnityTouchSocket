@@ -1,7 +1,7 @@
 {
-  "name": "thazy.mframework.unitytouchsocket",
+  "name": "com.thazy.mframework.unitytouchsocket",
   "version": "3.0.19",
-  "displayName": "MFramework.UnityCommSystem",
+  "displayName": "MFramework.UnityTouchSocket",
   "description": "若汝棋茗开源的TouchSocket网络开发库开发的适用于Unity中的网络通信库。",
   "unity": "2023.3",
   "author": {
