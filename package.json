@@ -14,6 +14,7 @@
     "url": "https://github.com/T-Hazy/MFramework.UnityTouchSocket.git"
   },
   "dependencies": {
-    "com.unity.inputsystem":"1.11.2"
+    "com.unity.inputsystem":"1.11.2",
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
   }
 }

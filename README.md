@@ -26,8 +26,5 @@ TouchSocket是一款简单易用的基础网络通讯组件库，是由原作者
 #### 依赖包
 
 + InputSystem(Unity Registry) :Unity注册登记包，从Unity Package Manager中的`Unity Registry`选项卡中搜索`InputSystem`安装。
++ Newtonsoft Json(Unity Registry):Unity注册登记包，已经包含在`package.json`文件的`Dependencies`项中,如果导入项目时没有自动安装，可以手动从Unity Package Manager中的`Unity Registry`选项卡中搜索`Newtonsoft Json`安装。
 + [UnityWebSocket](https://github.com/psygames/UnityWebSocket)
-
-## 错误修复
-
-+ 您可能会收到关于`TouchSocket.SerialPorts`的`3.0.19`和`3.0.10`程序集重复的错误。删除低版本即可。
