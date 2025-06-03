@@ -7,13 +7,12 @@
         "GUID:8b65d8710c3b04373a41cbf6b777ee65",
         "GUID:ee833745c57bd4369ab8f0ff380a96fa",
         "GUID:bcc75752368a72b4aba4043ea13b2a1a",
-        "GUID:07ab30a82c1032d45ad726f7216628e8",
-        "GUID:75469ad4d38634e559750d17036d5f7c"
+        "GUID:07ab30a82c1032d45ad726f7216628e8"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
-    "overrideReferences": true,
+    "overrideReferences": false,
     "precompiledReferences": [
         "Microsoft.Bcl.AsyncInterfaces.dll",
         "Microsoft.Extensions.DependencyInjection.Abstractions.dll",

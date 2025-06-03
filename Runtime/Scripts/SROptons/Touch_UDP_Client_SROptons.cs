@@ -53,7 +53,7 @@ public partial class SROptions
         {
             await Touch_UDP_Client.SendAsync("Hello Touch-UDP-Client!");
         }
-        catch (Exception e)
+        catch (Exception)
         {
             Debug.Log("Touch_UDP_Client 未在线");
         }
@@ -69,7 +69,7 @@ public partial class SROptions
                 await Touch_UDP_Client.SendAsync("Hello Touch-UDP-Client!" + i);
             }
         }
-        catch (Exception e)
+        catch (Exception)
         {
             Debug.Log("Touch_UDP_Client 未在线");
         }
@@ -81,7 +81,7 @@ public partial class SROptions
         {
             await Touch_UDP_Client.StopAsync();
         }
-        catch (Exception e)
+        catch (Exception)
         {
             Debug.Log("Touch_UDP_Client 未在线");
         }
