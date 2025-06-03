@@ -3,7 +3,7 @@
   "version": "3.0.19",
   "displayName": "MFramework.UnityTouchSocket",
   "description": "若汝棋茗开源的TouchSocket网络开发库开发的适用于Unity中的网络通信库。",
-  "unity": "2023.3",
+  "unity": "2020.3",
   "author": {
     "name": "Pixelsmao(像素猫)",
     "email": "1351820946@qq.com"
@@ -11,10 +11,11 @@
   "documentation": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/T-Hazy/MFramework.UnityTouchSocket.git"
+    "url": "https://gitee.com/Pixelsmao/MFramework.UnityTouchSocket.git"
   },
   "dependencies": {
     "com.unity.inputsystem":"1.11.2",
-    "com.unity.nuget.newtonsoft-json": "3.2.1"
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.psygames.unitywebsocket": "https://github.com/psygames/UnityWebSocket.git#upm"
   }
 }
